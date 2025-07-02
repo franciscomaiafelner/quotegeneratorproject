@@ -18,3 +18,5 @@ function quoteGenerator() {
 }
 
 console.log(quoteGenerator());
+
+console.log('some other random shit')
